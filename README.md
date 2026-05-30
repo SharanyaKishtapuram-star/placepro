@@ -54,3 +54,29 @@ https://github.com/SharanyaKishtapuram-star/placepro-backend
 ## Developer
 
 Sharanya Kishtapuram
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Registration Page
+![Registration Page](screenshots/registration-page.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/student-dashboard.png)
+
+### Available Jobs
+![Available Jobs](screenshots/available-jobs.png)
+
+### Recruiter Dashboard
+![Recruiter Dashboard](screenshots/recruiter-dashboard.png)
+
+### Recruiter Applications
+![Recruiter Applications](screenshots/recruiter-applications.png)
+
+### Placement Analytics
+![Placement Analytics](screenshots/placement-analytics.png)
+
+### Add Job
+![Add Job](screenshots/add-job.png)
