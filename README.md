@@ -4,6 +4,15 @@ PlacePro is a web-based placement and recruitment platform developed to simplify
 
 Students can create accounts, explore available job opportunities, upload resumes, and apply for jobs. Recruiters can post job openings, view applications, and manage candidates through a dedicated dashboard.
 
+
+## Live Deployment
+
+Frontend:
+https://placepro-frontend-btr2w10kt-sharanyas-projects-5c1de1be.vercel.app
+
+Backend API:
+https://placepro-backend-production.up.railway.app
+
 ## Key Features
 
 * Student Registration and Login
